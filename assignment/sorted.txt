@@ -1,0 +1,5 @@
+Zhen Home, Tsai,0
+Stanley, Mei,60
+Ignat, Moana,94
+Krishnan, Abhiram,100
+Elon, Musk,5000
